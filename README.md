@@ -9,4 +9,4 @@ Authors:
 5. Nurul Hidayat, S.Pd., M.Sc. (ntayadih@ub.ac.id), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB)
 6. Prof. Dr. Nurul Taufiqu Rochman, M.Eng (nurul@nano.or.id), Metallurgy and Materials Research Center, Indonesian Institute of Sciences (LIPI)
 
-2nd International Seminar Smart Molecule of Natural Resources (ISSMART 2020)
+2nd International Seminar Smart Molecule of Natural Resources (ISSMART 2020), "Smart Molecule from Natural Resources for Global Pandemic Diseases”, Malang August 25 - 26 2020, Online seminar (Zoom & Google Meet)
