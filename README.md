@@ -1,5 +1,6 @@
 # Big-Data-App-in-Silico-to-Determine-Modelling-Covid-19-Medicinal-by-Optimizing-Dose-of-Compound-Mix
 Big Data App in Silico to Determining Modelling Covid-19 Medicinal by Optimizing Dosage of Compound Mixture with Deep AI based ELM PSO Using Spark
+##The Real Dataset is being collected from a hospital in Malang, with the assistance of a lecturer from the Faculty of Medicine, Universitas Brawijaya (FKUB)
 
 Authors:
 1. Imam Cholissodin, S.Si., M.Kom. (imamcs@ub.ac.id), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB), Corresponding Author ✔
